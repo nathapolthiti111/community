@@ -4,7 +4,7 @@ on:
   discussion_comment:
     types: [created]
 
-jobs:
+jobs: 
   build:
     runs-on: ubuntu-latest
     permissions:
